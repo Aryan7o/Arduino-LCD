@@ -1,2 +1,2 @@
-# Arduino-LCD
-Making Yes No Question Answer number ratio using LCD in Arduino
+# Button Response Poll Arduino
+Making Yes No Question Answer number survey using LCD in Arduino
